@@ -4,6 +4,8 @@
 
 It is like ReScript library, but it designed to work with more popular TypeScript language.
 
+Please, open an issue if you know an alternative to it.
+
 ## New syntax
 
 ### [n * type]
